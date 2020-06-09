@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Add 3 Item</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9514dc45-5d57-4ff2-878c-6e94c255c2a5</testCaseGuid>
+   <variable>
+      <defaultValue>'Item No 1'</defaultValue>
+      <description></description>
+      <id>a236f968-405f-4309-b92a-25d96bac2cf8</id>
+      <masked>false</masked>
+      <name>item1</name>
+   </variable>
+   <variable>
+      <defaultValue>'Item No 2'</defaultValue>
+      <description></description>
+      <id>771d5130-f802-47ae-827f-e06783dc5b0b</id>
+      <masked>false</masked>
+      <name>item2</name>
+   </variable>
+   <variable>
+      <defaultValue>'Item No 3'</defaultValue>
+      <description></description>
+      <id>4034b521-ea92-400d-8b49-060ab5a368f8</id>
+      <masked>false</masked>
+      <name>item3</name>
+   </variable>
+</TestCaseEntity>

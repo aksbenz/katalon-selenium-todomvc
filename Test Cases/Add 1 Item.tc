@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Add 1 Item</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1c9007dd-4fef-4fa7-8f45-69dcc358ee07</testCaseGuid>
+   <variable>
+      <defaultValue>'Item No 1'</defaultValue>
+      <description></description>
+      <id>dc50f878-6b67-430d-8274-aaa99cce4b2c</id>
+      <masked>false</masked>
+      <name>item1</name>
+   </variable>
+</TestCaseEntity>
